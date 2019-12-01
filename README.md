@@ -1,5 +1,5 @@
 ## Welcome to TeperatUHR
-This is a project by [Paul Goldschmidt](https://paul-golddschmidt.de) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. 
+This is a project by [Paul Goldschmidt](https://paul-goldschmidt.de) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. 
 
 ### Jekyll Themes
 
