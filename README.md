@@ -9,3 +9,4 @@ Check out the 3D-Model in Fusion360 by yourself and 3D-Print it: https://a360.co
 You can also check out my easyEDA Project Page and scroll throu the BOM: [Click here](https://easyeda.com/manfred.weberpaul/paul-award-2020)
 
 To get the app, download "blynk" from any appstore you like (except for windows mobile, sorry! :D) and scan the following qr-code:
+![QR-Code](3_Documentation/Software/qr-code app.png)
