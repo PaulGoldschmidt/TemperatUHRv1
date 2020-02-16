@@ -1,0 +1,1 @@
+This test project is designed to run on an other Arduinos like an MEGA 2560, not for the ESP8266.
