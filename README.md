@@ -5,3 +5,4 @@ This project was created for the [Paul Award 2020](https://www.paul-award.de/), 
 
 ## How to rebuild this project yourself 
 Check out the 3D-Model in Fusion360 by yourself and 3D-Print it: https://a360.co/2UUTSgx
+You can also check out my easyEDA Project Page and scroll throug the BOM: [Click here](https://easyeda.com/manfred.weberpaul/paul-award-2020)
