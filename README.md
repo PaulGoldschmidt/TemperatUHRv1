@@ -1,10 +1,8 @@
 ## Welcome to TeperatUHR
 This is a project by [Paul Goldschmidt](https://paul-goldschmidt.de) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. 
 
-### Jekyll Themes
+This project was created for the [Paul Award 2020](https://www.paul-award.de/), which is ran by ["Elektronik Neo"](https://www.elektronik-neo.de/) and the [Fachverband Elektronik-Design (FED) e.V.](https://www.fed.de/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PaulGoldschmidt/temperatUHR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How to rebuild this project yourself 
+Check out the 3D-Model in Fusion360 by yourself and 3D-Print it: https://a360.co/2UUTSgx
+You can also check out my easyEDA Project Page and scroll throug the BOM: [Click here](https://easyeda.com/manfred.weberpaul/paul-award-2020)
