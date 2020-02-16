@@ -16,8 +16,8 @@
 #include <DallasTemperature.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "MartinRouterKing";         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "Hallohallohallo1";     // The password of the Wi-Fi network
+const char* ssid     = "SSID";         // The SSID (name) of the Wi-Fi network you want to connect to
+const char* password = "PASSWORD";     // The password of the Wi-Fi network
 
 #define ONE_WIRE_BUS 14 //This is the pin on witch the temperature senor is connected.
 
