@@ -1,5 +1,5 @@
 ## Welcome to TeperatUHR
-This is a project by [Paul Goldschmidt](https://paul-goldschmidt.de) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. It will even factor in the way to the sensor - so no energy gets wasted and the measured material just arrives at the wanted temperature in the moment you'll arrive. 
+This is a project by [Paul Goldschmidt](https://paul-goldschmidt.de) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. It will even factor in the way to the sensor - so no energy gets wasted and the measured material just reaches the wanted temperature in the moment you'll arrive. 
 
 This project was created for the [Paul Award 2020](https://www.paul-award.de/), which is ran by ["Elektronik Neo"](https://www.elektronik-neo.de/) and the [Fachverband Elektronik-Design (FED) e.V.](https://www.fed.de/).
 
