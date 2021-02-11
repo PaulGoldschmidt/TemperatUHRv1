@@ -124,12 +124,12 @@ void loop()
       delay(250);
     }
   }
-  delay(50);
+  delay(50); //Wait 50 ms
   tempchange(); //calls the function to calc the temp. rise
   digitalWrite(13, LOW); //turns LED on
   BLYNK_WRITE(1); // reading the notification Temperature from App
   BLYNK_WRITE(3); // way from user to TemperatUHR
-  float tempDelta; //calc the temp. delta for the user to display.
+  float tempDelta; //calc the temp. Delta for the user to display.
   if (temperature > notificationTemp + 20) { //is the substance cooling down or not?
     CooldownMode = true;
     tempDelta = temperature - notificationTemp;
@@ -167,7 +167,7 @@ void loop()
   else {
     if (notificationTemp >= temperature + 5) {
       Blynk.notify("Temperatur erreicht!");
-      led1.on();
+      led1.on(); //turn the LED on.
       delay(50000); //wait 50s.
     }
     else {
