@@ -1,3 +1,5 @@
+**This repository is now due to the work on [TemperatUHR Version 2.0](https://github.com/PaulGoldschmidt/temperatUHR) read-only and archived. Please only use version 2.0 if you consider building temperatUHR for yourself.**
+---
 ## Welcome to TemperatUHR
 This is a project by [Paul Goldschmidt](https://paul-goldschmidt.de/) which can smartly monitor the temperature of a fluid or a gas and notice you in case a certiain threshold is reached. It will even factor in the way to the sensor - so no energy gets wasted and the measured material just reaches the wanted temperature in the moment you'll arrive. 
 
